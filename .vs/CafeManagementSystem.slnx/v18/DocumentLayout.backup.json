@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My cSHap project\\CafeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|d:\\my cshap project\\cafemanagementsystem\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|D:\\My cSHap project\\CafeManagementSystem\\forms\\paymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5AD13-6560-4A25-A988-C8CC6C51E340}|CafeManagementSystem.csproj|solutionrelative:forms\\paymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 675,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderForm.cs [Design]",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\OrderForm.cs",
+              "RelativeDocumentMoniker": "Forms\\OrderForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\OrderForm.cs [Design]",
+              "RelativeToolTip": "Forms\\OrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:50:34.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentForm.cs [Design]",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PaymentForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\PaymentForm.cs [Design]",
+              "RelativeToolTip": "Forms\\PaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T10:02:11.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "Forms\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:46:53.248Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CustomerForm.cs",
+              "RelativeToolTip": "Forms\\CustomerForm.cs",
+              "ViewState": "AgIAAB0CAAAAAAAAAAASwH0CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:46:57.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuForm.cs [Design]",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\MenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MenuForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\MenuForm.cs [Design]",
+              "RelativeToolTip": "Forms\\MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:49:28.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:48:26.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerMenu.cs [Design]",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CustomerMenu.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerMenu.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CustomerMenu.cs [Design]",
+              "RelativeToolTip": "Forms\\CustomerMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:48:13.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerDashboard.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CustomerDashboard.cs [Design]",
+              "RelativeToolTip": "Forms\\CustomerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:25:35.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryForm.cs [Design]",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CategoryForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CategoryForm.cs [Design]",
+              "RelativeToolTip": "Forms\\CategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:43:34.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminDashboard.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "Forms\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T07:23:31.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportForm.cs [Design]",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\ReportForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ReportForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\ReportForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T10:25:06.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "Forms\\PaymentForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\PaymentForm.cs",
+              "RelativeToolTip": "Forms\\PaymentForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwO8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T10:06:49.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\OrderForm.cs",
+              "RelativeDocumentMoniker": "Forms\\OrderForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\OrderForm.cs",
+              "RelativeToolTip": "Forms\\OrderForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:50:38.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\MenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MenuForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\MenuForm.cs",
+              "RelativeToolTip": "Forms\\MenuForm.cs",
+              "ViewState": "AgIAAKsBAAAAAAAAAADwv7wBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:49:32.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryForm.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CategoryForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CategoryForm.cs",
+              "RelativeToolTip": "Forms\\CategoryForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwAwBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:43:38.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Forms\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:48:31.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Data\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Data\\DataAccess.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Data\\DataAccess.cs",
+              "RelativeToolTip": "Data\\DataAccess.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwE8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:55:02.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:41:47.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminDashboard.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\AdminDashboard.cs",
+              "RelativeToolTip": "Forms\\AdminDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T07:44:16.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerDashboard.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerDashboard.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CustomerDashboard.cs",
+              "RelativeToolTip": "Forms\\CustomerDashboard.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAwwEQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:25:37.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TableForm.cs [Design]",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\TableForm.cs",
+              "RelativeDocumentMoniker": "Forms\\TableForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\TableForm.cs [Design]",
+              "RelativeToolTip": "Forms\\TableForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:42:36.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TableForm.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\TableForm.cs",
+              "RelativeDocumentMoniker": "Forms\\TableForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\TableForm.cs",
+              "RelativeToolTip": "Forms\\TableForm.cs",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAmwPsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:53:45.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerMenu.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CustomerMenu.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerMenu.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\CustomerMenu.cs",
+              "RelativeToolTip": "Forms\\CustomerMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:48:21.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReportForm.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\ReportForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ReportForm.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\ReportForm.cs",
+              "RelativeToolTip": "Forms\\ReportForm.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowGkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T12:12:49.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T10:42:31.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Session.cs",
+              "RelativeDocumentMoniker": "Session.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Session.cs",
+              "RelativeToolTip": "Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T10:52:07.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PaymentForm.Designer.cs",
+              "DocumentMoniker": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\PaymentForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\PaymentForm.Designer.cs",
+              "ToolTip": "D:\\My cSHap project\\CafeManagementSystem\\Forms\\PaymentForm.Designer.cs",
+              "RelativeToolTip": "Forms\\PaymentForm.Designer.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAlwJ0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T10:07:03.921Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
